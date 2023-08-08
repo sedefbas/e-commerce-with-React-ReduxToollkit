@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# React ile basit bir e-ticaret sitesi oluşturdum.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bu proje sadece react gelişimime katkı sağlamak amacıyla oluşturulmuştur.
 
-## Available Scripts
-
-In the project directory, you can run:
+## Npm start diyerek ve gerekli paketleri indirerek projeyi incileyebilirisniz.
+1.react paginate
+2.react-icon
+3.react-slick
+4.react-router-dom
+5.react-redux
 
 ### `npm start`
 
