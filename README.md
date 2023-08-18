@@ -15,3 +15,5 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
+![alt text](file:///C:/Users/SEDEF%20NURAY%20BA%C5%9E/Videos/Captures/React%20App%20-%20Google%20Chrome%2018.08.2023%2015_45_14.png)
+
